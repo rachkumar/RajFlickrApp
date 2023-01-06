@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.2)
+  - EasyTipView (2.1.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.1)
+  - EasyTipView (~> 2.1)
+  - IQKeyboardManagerSwift
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EasyTipView
+    - IQKeyboardManagerSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  EasyTipView: a92b6edc377b81c5ac18e9fd35d5ee78e9409488
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+
+PODFILE CHECKSUM: be6f16cc60d9ea9c1b269d17c508a5db7c288590
+
+COCOAPODS: 1.11.3

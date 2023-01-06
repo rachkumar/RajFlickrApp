@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Flickr App/Pods-Flickr App-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/EasyTipView/EasyTipView.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
